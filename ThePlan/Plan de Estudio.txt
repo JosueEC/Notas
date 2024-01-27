@@ -1,0 +1,101 @@
+CONCEPTOS DE ENTREVISTA:
+- Module resolution en NodeJS
+- EventEmmiter
+- Strict Mode in React
+- DOM, Virtual DOM and Shadow DOM
+
+
+----------------------------------------------------------------
+  BACKEND
+---------------------------------------------------------------- 
+[Languages]
+[✅]- NodeJS
+[✅]- JavaScript
+[✅]- TypeScript
+- SQL (QUERIES, DATE, USER, MAX, MIN)
+
+[Backend Frameworks]
+[✅]- ExpressJS
+[✅]- NestJS
+
+[Databases]
+[✅]- PostgreSQL
+- MongoDB
+
+[ORM & ODM]
+[✅]- TypeORM
+- Mongoose
+
+[Testing]
+- Jest
+- Mocha
+- Jasmine
+- Pruebas Unitarias
+
+
+[API Technologies]
+- Socket.io
+- JWT Auth
+- Micro-Services
+[✅]- REST
+- SOAP
+[✅]- JSON
+- XML
+[✅]- HTTP
+[✅]- GraphQL
+- gRPC
+
+[API Secuirity Protocols]
+- Basic Auth
+- API Key´s
+- OAuth
+- OIDC
+
+[DEVOPS]
+[✅]- Docker
+[✅]- Docker-Compose
+- Kubernates
+
+[CLOUD]
+[✅]- Serverless Framework o AWS CDK
+- AWS:
+  * EC2
+  * IAM
+[✅]  * Lambda
+  * SQS
+  * SNS
+  * S3
+  * CloudWatch
+  * EKS
+  * Elastic Cache
+  * DynamoDB
+[✅]  * Api Gateway
+- Arquitecturas basadas en eventos
+
+[DESIGN PATTERNS]
+- DDD (Domain Driver Design)
+- Abstract Repository
+- Clean Architecture
+
+[CONCEPTS]
+- Patrones de Diseño
+- Patrones de arquitecura (MVC)
+- Programacion Asincrona
+- Principios SOLID
+- POO y Funcional
+- Complejidad Algoritmica
+- Inyeccion de dependencias
+- Modelado de Entidades
+
+----------------------------------------------------------------
+  FRONTEND
+---------------------------------------------------------------- 
+[FRONTEND FRAMEWORKS]
+- ReactJS
+  * Hooks Avanzados
+  * Referencias y DOM
+  * Custom Hooks
+- MaterialUI
+- Firebase
+- Styled Components
+- Jest/Selenium

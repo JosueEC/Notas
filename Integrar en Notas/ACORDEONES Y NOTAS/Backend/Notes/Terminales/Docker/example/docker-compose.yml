@@ -1,0 +1,15 @@
+version: '3.9'
+
+services:
+  node-service:
+    image: node
+    container_name: node-project
+    ports:
+      - 5000:3000
+    build: .
+    command: node server.js
+  db-service:
+    image: mongo
+    container_name: example-db
+    ports:
+      -27017:27017

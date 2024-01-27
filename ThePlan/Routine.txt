@@ -1,0 +1,12 @@
+----------------------------------------------------------------
+  ROUTINE
+---------------------------------------------------------------- 
+7 - 8   -> Ejercicio de LeetCode
+8 - 9   -> Desayunar
+9 - 10  -> Limpiar el cuarto y asearme
+10 - 12 -> Postular a vacantes
+12 - 2  -> Aprender Microservicios
+2 - 3   -> Comer
+3 - 4   -> Lavar trastes y limpiar cocina
+4 - 9   -> Aprender Microservicios
+9 - 11  -> Relajarse  
